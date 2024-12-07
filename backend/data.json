@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "admin_user",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "manager_user",
+      "password": "manager123",
+      "role": "manager"
+    },
+    {
+      "id": 3,
+      "username": "employee_user",
+      "password": "employee123",
+      "role": "employee"
+    },
+    {
+      "id": 4,
+      "username": "seller_user",
+      "password": "seller123",
+      "role": "seller"
+    }
+  ],
+  "count": 4
+}

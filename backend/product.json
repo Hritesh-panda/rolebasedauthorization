@@ -1,0 +1,432 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Headphone",
+      "description": "Premium noise-canceling wireless headphones with 30-hour battery life",
+      "productUrl": "https://example.com/store/wireless-headphones-soundmax",
+      "imageUrl": "https://images.unsplash.com/photo-1655804446276-7699884b469b?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 199.99,
+      "category": "Electronics",
+      "brand": "SoundMax",
+      "specifications": {
+        "color": "Black",
+        "weight": "250g",
+        "connectivity": "Bluetooth 5.0",
+        "batteryLife": "30 hours"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 50,
+        "warehouse": "MAIN-01"
+      },
+      "ratings": {
+        "average": 4.5,
+        "count": 128
+      },
+      "tags": [
+        "wireless",
+        "noise-canceling",
+        "bluetooth",
+        "premium"
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Smart Watch Pro",
+      "description": "Advanced fitness tracking smartwatch with heart rate monitoring",
+      "productUrl": "https://example.com/store/smart-watch-pro-techfit",
+      "imageUrl": "https://images.unsplash.com/photo-1575125069494-6a0c5819d340?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 299.99,
+      "category": "Electronics",
+      "brand": "TechFit",
+      "specifications": {
+        "color": "Silver",
+        "weight": "45g",
+        "display": "AMOLED",
+        "waterResistant": true
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 75,
+        "warehouse": "MAIN-02"
+      },
+      "ratings": {
+        "average": 4.7,
+        "count": 256
+      },
+      "tags": [
+        "smartwatch",
+        "fitness",
+        "health",
+        "tech"
+      ]
+    },
+    {
+      "id": "P003",
+      "name": "Organic Coffee Beans",
+      "description": "Premium dark roast organic coffee beans from Colombia",
+      "productUrl": "https://example.com/store/organic-coffee-beanmaster",
+      "imageUrl": "https://images.unsplash.com/photo-1669296667524-906d519cbe3e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 14.99,
+      "category": "Food & Beverages",
+      "brand": "BeanMaster",
+      "specifications": {
+        "weight": "1kg",
+        "roast": "Dark",
+        "origin": "Colombia",
+        "organic": true
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 200,
+        "warehouse": "FOOD-01"
+      },
+      "ratings": {
+        "average": 4.8,
+        "count": 89
+      },
+      "tags": [
+        "coffee",
+        "organic",
+        "dark-roast",
+        "premium"
+      ]
+    },
+    {
+      "id": "P004",
+      "name": "Yoga Mat",
+      "description": "Non-slip premium yoga mat with carrying strap",
+      "productUrl": "https://example.com/store/yoga-mat-yogaflex",
+      "imageUrl": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 29.99,
+      "category": "Sports & Fitness",
+      "brand": "YogaFlex",
+      "specifications": {
+        "material": "TPE",
+        "thickness": "6mm",
+        "length": "183cm",
+        "width": "61cm"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 150,
+        "warehouse": "SPORTS-01"
+      },
+      "ratings": {
+        "average": 4.6,
+        "count": 167
+      },
+      "tags": [
+        "yoga",
+        "fitness",
+        "exercise",
+        "non-slip"
+      ]
+    },
+    {
+      "id": "P005",
+      "name": "LED Desk Lamp",
+      "description": "Adjustable LED desk lamp with wireless charging base",
+      "productUrl": "https://example.com/store/led-desk-lamp-lightpro",
+      "imageUrl": "https://images.unsplash.com/photo-1731762524352-b5663f83a830?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 49.99,
+      "category": "Home & Office",
+      "brand": "LightPro",
+      "specifications": {
+        "color": "White",
+        "brightness": "800 lumens",
+        "colorTemperature": "2700K-6500K",
+        "wireless": true
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 100,
+        "warehouse": "HOME-01"
+      },
+      "ratings": {
+        "average": 4.4,
+        "count": 143
+      },
+      "tags": [
+        "lighting",
+        "desk-lamp",
+        "led",
+        "wireless-charging"
+      ]
+    },
+    {
+      "id": "P006",
+      "name": "Gaming Mouse",
+      "description": "High-precision gaming mouse with RGB lighting",
+      "productUrl": "https://example.com/store/gaming-mouse-gametech",
+      "imageUrl": "https://images.unsplash.com/photo-1627745213598-51e38e5fc5f1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 79.99,
+      "category": "Gaming",
+      "brand": "GameTech",
+      "specifications": {
+        "DPI": "16000",
+        "buttons": "8",
+        "weight": "95g",
+        "rgb": true
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 120,
+        "warehouse": "GAMING-01"
+      },
+      "ratings": {
+        "average": 4.7,
+        "count": 289
+      },
+      "tags": [
+        "gaming",
+        "mouse",
+        "rgb",
+        "high-precision"
+      ]
+    },
+    {
+      "id": "P007",
+      "name": "Protein Powder",
+      "description": "Whey protein isolate powder with 25g protein per serving",
+      "productUrl": "https://example.com/store/protein-powder-fitfuel",
+      "imageUrl": "https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 39.99,
+      "category": "Health & Nutrition",
+      "brand": "FitFuel",
+      "specifications": {
+        "weight": "2kg",
+        "flavor": "Chocolate",
+        "servings": "30",
+        "proteinPerServing": "25g"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 180,
+        "warehouse": "HEALTH-01"
+      },
+      "ratings": {
+        "average": 4.5,
+        "count": 211
+      },
+      "tags": [
+        "protein",
+        "fitness",
+        "nutrition",
+        "supplement"
+      ]
+    },
+    {
+      "id": "P008",
+      "name": "Portable SSD",
+      "description": "1TB portable solid-state drive with USB-C connection",
+      "productUrl": "https://example.com/store/portable-ssd-datapro",
+      "imageUrl": "https://images.unsplash.com/photo-1689287428295-52e64882c4f1?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 159.99,
+      "category": "Electronics",
+      "brand": "DataPro",
+      "specifications": {
+        "capacity": "1TB",
+        "interface": "USB-C",
+        "speed": "1050MB/s",
+        "weight": "85g"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 90,
+        "warehouse": "MAIN-01"
+      },
+      "ratings": {
+        "average": 4.8,
+        "count": 156
+      },
+      "tags": [
+        "storage",
+        "ssd",
+        "portable",
+        "usb-c"
+      ]
+    },
+    {
+      "id": "P009",
+      "name": "Air Purifier",
+      "description": "HEPA air purifier with PM2.5 filter and air quality sensor",
+      "productUrl": "https://example.com/store/air-purifier-airclear",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1661315526732-271aa84f480d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 199.99,
+      "category": "Home & Office",
+      "brand": "AirClear",
+      "specifications": {
+        "coverage": "50m²",
+        "filterType": "HEPA H13",
+        "noise": "25-52dB",
+        "modes": "4"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 60,
+        "warehouse": "HOME-02"
+      },
+      "ratings": {
+        "average": 4.6,
+        "count": 178
+      },
+      "tags": [
+        "air-purifier",
+        "hepa",
+        "home",
+        "air-quality"
+      ]
+    },
+    {
+      "id": "P011",
+      "name": "Digital Drawing Tablet",
+      "description": "Professional drawing tablet with 4K resolution",
+      "productUrl": "https://example.com/store/drawing-tablet-artpro",
+      "imageUrl": "https://images.unsplash.com/photo-1610274672835-65a79c852f58?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 299.99,
+      "category": "Electronics",
+      "brand": "ArtPro",
+      "specifications": {
+        "screenSize": "15.6 inch",
+        "resolution": "4K",
+        "pressureLevels": "8192",
+        "connectivity": "USB-C"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 45,
+        "warehouse": "MAIN-03"
+      },
+      "ratings": {
+        "average": 4.8,
+        "count": 167
+      },
+      "tags": [
+        "drawing",
+        "tablet",
+        "digital-art",
+        "professional"
+      ]
+    },
+    {
+      "id": "P012",
+      "name": "Smart Plant Pot",
+      "description": "Self-watering plant pot with soil moisture monitoring",
+      "productUrl": "https://example.com/store/smart-plant-pot-greenthumb",
+      "imageUrl": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 44.99,
+      "category": "Home & Garden",
+      "brand": "GreenThumb",
+      "specifications": {
+        "capacity": "3L",
+        "material": "Ceramic",
+        "sensor": "Moisture",
+        "autoWatering": true
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 110,
+        "warehouse": "GARDEN-01"
+      },
+      "ratings": {
+        "average": 4.4,
+        "count": 98
+      },
+      "tags": [
+        "gardening",
+        "smart-home",
+        "plant-care",
+        "automatic"
+      ]
+    },
+    {
+      "id": "P014",
+      "name": "Resistance Bands Set",
+      "description": "5-piece resistance bands set with carry bag",
+      "productUrl": "https://example.com/store/resistance-bands-fitband",
+      "imageUrl": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 24.99,
+      "category": "Sports & Fitness",
+      "brand": "FitBand",
+      "specifications": {
+        "pieces": "5",
+        "resistance": "5-50lbs",
+        "material": "Natural Latex",
+        "includes": "Carry Bag"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 200,
+        "warehouse": "SPORTS-02"
+      },
+      "ratings": {
+        "average": 4.6,
+        "count": 312
+      },
+      "tags": [
+        "fitness",
+        "resistance-bands",
+        "exercise",
+        "home-workout"
+      ]
+    },
+    {
+      "id": "P015",
+      "name": "Smart Door Lock",
+      "description": "WiFi-enabled smart door lock with fingerprint scanner",
+      "productUrl": "https://example.com/store/smart-door-lock-securehome",
+      "imageUrl": "https://plus.unsplash.com/premium_photo-1729574858839-5a145c914bac?q=80&w=1788&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 179.99,
+      "category": "Smart Home",
+      "brand": "SecureHome",
+      "specifications": {
+        "unlock": "Fingerprint, PIN, App",
+        "wireless": "WiFi",
+        "battery": "4 AA",
+        "material": "Zinc Alloy"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 75,
+        "warehouse": "SMART-01"
+      },
+      "ratings": {
+        "average": 4.5,
+        "count": 167
+      },
+      "tags": [
+        "smart-home",
+        "security",
+        "door-lock",
+        "wifi"
+      ]
+    },
+    {
+      "id": "P600",
+      "name": "eau de parfum",
+      "description": "Best parfum with nice fregnance and feels you extra ordinary. ",
+      "productUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=2008&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "imageUrl": "https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=2008&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 30,
+      "category": "Fashion & Beauty",
+      "brand": "CHANEL",
+      "specifications": {
+        "color": "pink",
+        "weight": "100g"
+      },
+      "inventory": {
+        "inStock": true,
+        "quantity": 30,
+        "warehouse": "bhubaneswar"
+      },
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "tags": []
+    }
+  ],
+  "count": 14
+}
